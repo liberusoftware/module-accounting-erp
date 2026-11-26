@@ -3,7 +3,7 @@
   "name": "accounting-erp",
   "display_name": "Accounting Erp",
   "description": "Integrated ERP workflows and the existing application accounting schema.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "category": "product",
   "provider": "Liberu\\Accounting\\Erp\\ErpServiceProvider",
   "requires": {
